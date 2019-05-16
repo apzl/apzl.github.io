@@ -9,5 +9,5 @@ github_username: https://github.com/apzl
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme:  jekyll-theme-minimal
+theme:  jekyll-theme-minima
 
