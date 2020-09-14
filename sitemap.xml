@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://apsal.me/posts/2014/09/creating-a-new-theme/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/about/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/series/hugo-101/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/posts/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/series/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/posts/2014/04/hugo-template-primer/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/categories/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/categories/development/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/tags/development/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/posts/2014/04/getting-started-with-hugo/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/tags/go/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/tags/golang/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/categories/golang/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/tags/hugo/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/tags/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/tags/templates/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/tags/themes/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apsal.me/projects/</loc>
+    <lastmod>2020-09-14T10:35:35+05:30</lastmod>
+  </url>
+  
+</urlset>
